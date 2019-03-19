@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServiceCalcTest</name>
+    </assembly>
+    <members>
+        <member name="M:ServiceCalcTest.Controllers.ServiceJurosCompostoController.JurosComposto(System.Double,System.Int32)">
+            <summary>
+            Efetua cálculo de juros composto.
+            </summary>
+            <param name="valorinicial"></param> 
+            <param name="mes"></param> 
+        </member>
+    </members>
+</doc>

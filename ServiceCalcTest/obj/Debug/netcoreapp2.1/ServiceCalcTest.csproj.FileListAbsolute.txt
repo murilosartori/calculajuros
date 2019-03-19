@@ -32,3 +32,4 @@ D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.pdb
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.csproj.CopyComplete
 D:\Test\CalcTest\ServiceCalcTest\bin\Debug\netcoreapp2.1\ApplicationCalcTest.dll
 D:\Test\CalcTest\ServiceCalcTest\bin\Debug\netcoreapp2.1\ApplicationCalcTest.pdb
+D:\Test\CalcTest\ServiceCalcTest\bin\Debug\netcoreapp2.1\ServiceCalcTest.xml
