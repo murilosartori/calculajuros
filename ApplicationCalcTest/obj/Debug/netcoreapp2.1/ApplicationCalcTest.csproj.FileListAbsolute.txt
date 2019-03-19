@@ -1,0 +1,9 @@
+D:\Test\CalcTest\ApplicationCalcTest\bin\Debug\netcoreapp2.1\ApplicationCalcTest.deps.json
+D:\Test\CalcTest\ApplicationCalcTest\bin\Debug\netcoreapp2.1\ApplicationCalcTest.dll
+D:\Test\CalcTest\ApplicationCalcTest\bin\Debug\netcoreapp2.1\ApplicationCalcTest.pdb
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.csprojAssemblyReference.cache
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.csproj.CoreCompileInputs.cache
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.AssemblyInfoInputs.cache
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.AssemblyInfo.cs
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.dll
+D:\Test\CalcTest\ApplicationCalcTest\obj\Debug\netcoreapp2.1\ApplicationCalcTest.pdb
