@@ -14,10 +14,6 @@ D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.RazorAs
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.TagHelpers.input.cache
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.TagHelpers.output.cache
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\ServiceCalcTest.RazorCoreGenerate.cache
-D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 D:\Test\CalcTest\ServiceCalcTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs

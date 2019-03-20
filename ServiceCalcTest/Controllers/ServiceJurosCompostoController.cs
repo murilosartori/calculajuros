@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ApplicationCalcTest;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ServiceCalcTest.Controllers
 {
     public class ServiceJurosCompostoController : Controller
     {
+        private readonly AppJurosComposto _AppJurosComposto = new AppJurosComposto();
         /// <summary>
         /// Efetua cálculo de juros composto.
         /// </summary>
@@ -16,17 +18,7 @@ namespace ServiceCalcTest.Controllers
         [HttpGet("calculajuros")]
         public double JurosComposto(double valorinicial, int mes)
         {
-            double juros = Double.MinValue;
-            return juros;
-        }
-
-        /// <summary>
-        /// Retorna o caminho do projeto no GitHub.
-        /// </summary>
-        [HttpGet("showmethecode")]
-        public string ShowMeTheCode()
-        {
-            return "https://github.com/murilosartori/calculajuros";
+            return _AppJurosComposto.CalculoJurosComposto(valorinicial, mes);
         }
     }
 }
