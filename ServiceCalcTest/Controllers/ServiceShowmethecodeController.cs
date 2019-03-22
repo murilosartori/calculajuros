@@ -12,9 +12,9 @@ namespace ServiceCalcTest.Controllers
         /// Retorna o caminho do projeto no GitHub.
         /// </summary>
         [HttpGet("showmethecode")]
-        public IActionResult Index()
+        public string Index()
         {
-            return Ok("https://github.com/murilosartori/calculajuros");
+            return "https://github.com/murilosartori/calculajuros";
         }
     }
 }
